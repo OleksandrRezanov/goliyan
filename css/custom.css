@@ -1,0 +1,23 @@
+body {
+    font-family: "Raleway", Arial, sans-serif;
+    -webkit-font-feature-settings: "lnum";
+       -moz-font-feature-settings: "lnum";
+        -ms-font-feature-settings: "lnum";
+         -o-font-feature-settings: "lnum";
+            font-feature-settings: "lnum";
+}
+#rec264951462 .tn-elem[data-elem-id="1608847052867"] .tn-atom {
+    background-image: linear-gradient(to bottom, #C4977C, #050505 50%)
+}
+#rec264956107 .tn-elem[data-elem-id="1608847052867"] .tn-atom {
+    background-image: linear-gradient(to bottom, #050505 50%, #a68966)
+}
+#rec264956790 .tn-elem[data-elem-id="1608847052867"] .tn-atom {
+    background-image: linear-gradient(to bottom, #a68966 50%, #B17E4E)
+}
+#rec264958239 .tn-elem[data-elem-id="1608847052867"] .tn-atom {
+    background-image: linear-gradient(to bottom, #B17E4E 50%, #CE9E6C)
+}     
+#rec264959222 .tn-elem[data-elem-id="1608847052867"] .tn-atom {
+    background-image: linear-gradient(to bottom, #CE9E6C 50%, #edbc8b)
+}
